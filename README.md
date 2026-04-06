@@ -4,7 +4,7 @@ This repository contains a collection of React practice projects completed durin
 
 ---
 
-### See all the below exercises here -->
+### See all the below exercises [here](https://delaramdoroud.github.io/React-Learning-Journey/)
 
 ## 📚 Projects Overview
 
